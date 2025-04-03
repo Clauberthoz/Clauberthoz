@@ -27,4 +27,4 @@
 
 🔗 **Vamos conectar!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clauberthoz/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=medium&logoColor=white)](SEU_LINK_PORTFOLIO_AQUI)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=medium&logoColor=white)](https://github.com/Clauberthoz/Projeto_Sprint11_Dash_Youtube)  
